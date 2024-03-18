@@ -2,8 +2,8 @@
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
-
+<!-- ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif) -->
+"C:\Users\HP\Downloads\jon-tyson-A-obUh61bKw-unsplash (1).jpg"
 Now you will put your new skills to use with a large end-of-Phase project!
 
 In this project description, we will cover:
