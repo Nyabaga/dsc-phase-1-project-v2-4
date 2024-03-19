@@ -18,10 +18,11 @@ Data Understanding and Analysis
 
 our sources include the datasets provided in the folder zippedData they include:
 Box Office MojoLinks to an external site.
-IMDB Links to an external site.
-Rotten TomatoesLinks to an external site.
-TheMovieDBLinks to an external site.
+IMDB Links to an external site,
+Rotten TomatoesLinks to an external site,
+TheMovieDBLinks to an external site,
 The NumbersLinks to an external site.
+
 The different files have different formats:CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software or pd.read_csv, while the data from IMDB is located in a SQLite database.
           1.
           * Description of data
